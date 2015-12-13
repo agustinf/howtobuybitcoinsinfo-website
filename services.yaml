@@ -1,3 +1,103 @@
++bitquick:
++  label: BitQuick
++  countries: [ca, us, au, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
++  location: [us]
++  icon: https://www.bitquick.co/favicon.ico
++  url: https://bitquick.co/
++  content: 
++  	<p><a href="https://www.bitquick.co">Buy bitcoins</a> or sell bitcoins with cash or SEPA in under 10 minutes at BitQuick.co!</p> 
++  	<p>The quickest, simplest way to trade.</p>
++  	<p>Find us on Twitter here: <a href="https://twitter.com/bitquickco">@bitquickco</></p>
++  
++  coins: [btc]
++  
++altquick:
++  label: AltQuick
++  countries: [us]
++  location: [us]
++  icon: https://www.altquick.co/favicon.ico
++  url: https://altquick.co/
++  content: 
++  	<p>Buy over 30 altcoins with cash in under 10 minutes at BitQuick.co!</p> 
++  	<p>The quickest, simplest way to trade.</p>
++  	<p><a href="https://www.altquick.co">Buy Dogecoin</a>, Litecoin, Namecoin, Peercoin, and more!</p>
++  
++  coins: [blk,bitusd,bts,btcd,clam,xcp,dash,dgb,doge,ftc,gemz,ltc,msc,mint,maid,xmr,nmc,nbt,nxt,nvc,pot,ppc,qrk,rdd,xrp,sdc,start,sjcx,swarm,usdt,uno,vrc,vtc,mona,ifc,str,flo,ioc,neos,ixc,opal,tron]
+
+
+Coinfinity:
+  label: Coinfinity
+  location: [at]
+  countries: [at] 
+  icon: https://coinfinity.co/favicon.png
+  url: https://coinfinity.co/
+  content: |
+  <p>Fastest and cheapest service from Austria's leading Bitcoin firm.</p>
+  <p>Buy Bitcoins with SOFORT Überweisung in just minutes.</p>
+  coins: [btc]
+  
+Coinimal:
+  label: Coinimal
+  location: [at]
+  countries: [AE, AF, AG, AI, AL, AM, AN, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG BH, BI, BJ, BL, BM, BN, BO, BR, BS, BT, BV, BW, BY, CC, CD, CF, CG, CH, CI, CK, CL CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DO, DJ, DK, DM, DZ, EC, EE, EG, EH, ER, ES, ET, FI FJ, FK, FM, FO, FR, GA, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY HK, HM, HN, HR, HT, HU, ID, IE, IN, IL, IM, IO, IQ, IS, IT, JE, JM, JO, JP, KE, KG, KH KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UK, UM, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW] 
+  icon: https://www.coinimal.com/favicon.ico
+  url: https://www.coinimal.com
+  content: 
+  <p> Coinimal is the most convenient platform to buy and sell Bitcoin. </p>
+  <p> Choose one of our many payment options: SOFORT, NETELLER, GIROPAY, EPS, SEPA and OBT. </p>
+  <p> The average transaction time is two minutes! </p>
+  coins: [btc, ltc, nxt]
+
+  CEX.IO:
+  label: CEX.IO
+  countries: [AD, AE, AF, AG, AI, AL, AM, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG, BH, BI, BJ, BL, BM, BN, BO, BQ, BR, BS, BT, BV, BW, BY, BZ, CA, CC, CD, CF, CG, CH, CI, CK, CL, CM, CN, CO, CR, CU, CV, CW, CX, CY, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, EH, ER, ES, ET, FI, FJ, FK, FM, FO, FR, GA, GB, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY, HK, HM, HN, HR, HT, HU, ID, IE, IL, IM, IN, IO, IQ, IR, IT, JE, JM, JO, JP, KE, KG, KH, KI, KM, KN, KP, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME, MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF, NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY, QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, SS, ST, SV, SX, SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UM, US, UY, UZ, VA, VC, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW ]
+  icon: http://cex.io/img/favicon64.png
+  url: https://cex.io
+  content: Buy and sell Bitcoins for USD or EUR with payment cards or via bank transfers easily. Get into Bitcoin Trading on the worldwide Bitcoin Exchange.
+  coins: [btc, ltc, doge, drk, nmc, ixc, pot, anc, mec, wdc, ftc, dgb, usde, myr, aur, anc, ghs]
+
+bitcoinxromania:
+ label: Bitcoin X Romania
+ countries: [ro] 
+ icon: https://bitcoinxromania.com/wp-content/uploads/2015/05/favicon.png
+ url: https://bitcoinxromania.com
+ content: |
+<p>Bitcoin X Romania is a Romanian crypto currency exchange. Exchange RON/EUR/USD/BTC + other crypto currencies and a low trading fee of 0.5%.</p>
+ coins: [btc, ltc, doge]
+ 
+bitboat:
+  label: BitBoat
+  countries: [it, fr, es, gr]
+  location: [it, fr, es, gr]
+  icon: https://www.bitboat.net/res/favicon.png
+  url: https://www.bitboat.net/
+  content: |
+    <p>Buy bitcoin with cash deposit, fully automated.</p>
+    <p>Compra bitcoin pagando in contanti: semplice, veloce e sicuro.</p>
+    <p>Acheter vos bitcoin dans tout les bureaux de poste Français en moins d'une heure.</p>
+    <p>Compra bitcoin en efectivo: fácil, rápido y seguro.</p>
+    <p>Αγόρασε Bitcoin με ταχύτητα και ασφάλεια.</p>
+  coins: [btc, ltc, doge, nmc, xrp]
+
+Fastcoin:
+  label: Fastcoin
+  countries: [AE, AF, AG, AI, AL, AM, AN, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG BH, BI, BJ, BL, BM, BN, BO, BR, BS, BT, BV, BW, BY, CC, CD, CF, CG, CH, CI, CK, CL CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DO, DJ, DK, DM, DZ, EC, EE, EG, EH, ER, ES, ET, FI FJ, FK, FM, FO, FR, GA, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY HK, HM, HN, HR, HT, HU, ID, IE, IN, IL, IM, IO, IQ, IS, IT, JE, JM, JO, JP, KE, KG, KH KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UK, UM, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW]
+  location: [ch]
+  icon: https://fastcoin.ch/favicon.ico
+  url: https://fastcoin.ch
+  content: Simply Buy Bitcoin for Euro and CHF. Try 100 Euros with no KYC. Instant payment via OBT (Online Banking Transfer) available.
+
+maisondubtc:
+  label: La Maison du Bitcoin
+  countries: [fr]
+  location: [fr]
+  icon: http://www.lamaisondubitcoin.fr/favicon.ico
+  url: http://www.lamaisondubitcoin.fr/change
+  content: |
+    <p>Buy & Sell Bitcoin using cash and credit cards at our Paris physical exchange counter.</p>
+    <p>Located 35 rue du Caire, 75002 Paris. Open Monday to Friday from 10am to 7pm.</p>
+  coins: [btc]
+
 Yacuna:
   label: Yacuna
   countries: [AE, AF, AG, AI, AL, AM, AN, AO, AQ, AR, AS, AT, AU, AW, AX, AZ, BA, BB, BD, BE, BF, BG BH, BI, BJ, BL, BM, BN, BO, BR, BS, BT, BV, BW, BY, CC, CD, CF, CG, CH, CI, CK, CL CM, CN, CO, CR, CU, CV, CX, CY, CZ, DE, DO, DJ, DK, DM, DZ, EC, EE, EG, EH, ER, ES, ET, FI FJ, FK, FM, FO, FR, GA, GD, GE, GF, GG, GH, GI, GL, GM, GN, GP, GQ, GR, GS, GT, GU, GW, GY HK, HM, HN, HR, HT, HU, ID, IE, IN, IL, IM, IO, IQ, IS, IT, JE, JM, JO, JP, KE, KG, KH KI, KM, KN, KR, KW, KY, KZ, LA, LB, LC, LI, LK, LR, LS, LT, LU, LV, LY, MA, MC, MD, ME MF, MG, MH, MK, ML, MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NC, NE, NF NG, NI, NL, NO, NP, NR, NU, NZ, OM, PA, PE, PF, PG, PH, PK, PL, PM, PN, PR, PS, PT, PW, PY QA, RE, RO, RS, RU, RW, SA, SB, SC, SD, SE, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SR, ST, SV SY, SZ, TC, TD, TF, TG, TH, TJ, TK, TL, TM, TN, TO, TR, TT, TV, TW, TZ, UG, UK, UM, UY, UZ, VA, VC, VE, VG, VI, VN, VU, WF, WS, YE, YT, ZA, ZM, ZW] 
@@ -29,12 +129,24 @@ hitbtc:
   coins: [btc, ltc, doge, xmr, bcn, xdn, nxt, qcn, fcn]
 
 bittybot:
-  icon: http://bittybot.co.uk/wp-content/themes/bittybot/favicon.ico
+  icon: http://bittybot.co/wp-content/themes/bittybot/favicon.ico
   label: BittyBot
-  countries: [uk]
+  countries: [uk, at, be, bl, ca, ch, cy, cz, de, dk, ee, es, es, fi, fk, fr, gf, gg, gi, gr, hr, hu, ie, im, is, it, je, li, lt, lu, lv, mc, mf, mq, mt, nl, no, pl, pm, pt, re, ro, se, si, sk, yt]
   location: [uk]
-  url: http://bittybot.co.uk
-  content: Buy Bitcoins in the UK for the Best Prices with BittyBot - the UK's No.1 Bitcoin Price Comparison Website
+  url: http://bittybot.co/
+  content: Buy Bitcoins for the Best Prices with BittyBot - the Bitcoin Price Comparison Website
+  coins: [BTC]
+
+coincafe:
+  icon: https://coincafe.com/img/favicon.png
+  label: Coin Cafe
+  countries: [ad, ae, af, ag, ai, al, am, an, ao, aq, ar, as, at, au, aw, ax, az, ba, bb, bd, be, bf, bg, bh, bi, bj, bl, bm, bn, bo, br, bs, bt, bv, bw, by, bz, ca, cc, cd, cf, cg, ch, ci, ck, cl, cm, cn, co, cr, cu, cv, cx, cy, cz, de, do, dj, dk, dm, dz, ec, ee, eg, eh, er, es, et, fi, fj, fk, fm, fo, fr, ga, gd, ge, gf, gg, gh, gi, gl, gm, gn, gp, gq, gr, gs, gt, gu, gw, gy, hk, hm, hn, hr, ht, hu, id, ie, in, il, im, io, iq, ir, is, it, je, jm, jo, jp, ke, kg, kh, ki, km, kn, kp, kr, kw, ky, kz, la, lb, lc, li, lk, lr, ls, lt, lu, lv, ly, ma, mc, md, me, mf, mg, mh, mk, ml, mm, mn, mo, mp, mq, mr, ms, mt, mu, mv, mw, mx, my, mz, na, nc, ne, nf, ng, ni, nl, no, np, nr, nu, nz, om, pa, pe, pf, pg, ph, pk, pl, pm, pn, pr, ps, pt, pw, py, qa, re, ro, rs, ru, rw, sa, sb, sc, sd, se, sg, sh, si, sj, sk, sl, sm, sn, so, sr, st, sv, sy, sz, tc, td, tf, tg, th, tj, tk, tl, tm, tn, to, tr, tt, tv, tw, tz, ua, ug, uk, um, us, uy, uz, va, vc, ve, vg, vi, vn, vu, wf, ws, ye, yt, za, zm, zw]
+  location: [us]
+  url: https://www.coincafe.com/
+  content: |
+      <p>The fastest New York based exchange. Buy from anywhere in the world. No waiting, no hassles.</p>
+      <p>Buy Bitcoins with cash, check, wire transfer, Western Union, or credit/debit card. Or stop by our NYC location to use our ATM!</p>
+      <p>Find us on Twitter: <a href="https://twitter.com/coincafeinc">@CoinCafeInc</a></p>
   coins: [BTC]
 
 quickbitcoin:
@@ -52,43 +164,31 @@ quickbitcoin:
       </p>
   coins: [btc]
 
+paxful:
+  icon: http://paxful.com/favicon.png
+  label: Paxful
+  countries: [ad, ae, af, ag, ai, al, am, an, ao, aq, ar, as, at, au, aw, ax, az, ba, bb, bd, be, bf, bg, bh, bi, bj, bl, bm, bn, bo, br, bs, bt, bv, bw, by, bz, ca, cc, cd, cf, cg, ch, ci, ck, cl, cm, cn, co, cr, cu, cv, cx, cy, cz, de, do, dj, dk, dm, dz, ec, ee, eg, eh, er, es, et, fi, fj, fk, fm, fo, fr, ga, gd, ge, gf, gg, gh, gi, gl, gm, gn, gp, gq, gr, gs, gt, gu, gw, gy, hk, hm, hn, hr, ht, hu, id, ie, in, il, im, io, iq, ir, is, it, je, jm, jo, jp, ke, kg, kh, ki, km, kn, kp, kr, kw, ky, kz, la, lb, lc, li, lk, lr, ls, lt, lu, lv, ly, ma, mc, md, me, mf, mg, mh, mk, ml, mm, mn, mo, mp, mq, mr, ms, mt, mu, mv, mw, mx, my, mz, na, nc, ne, nf, ng, ni, nl, no, np, nr, nu, nz, om, pa, pe, pf, pg, ph, pk, pl, pm, pn, pr, ps, pt, pw, py, qa, re, ro, rs, ru, rw, sa, sb, sc, sd, se, sg, sh, si, sj, sk, sl, sm, sn, so, sr, st, sv, sy, sz, tc, td, tf, tg, th, tj, tk, tl, tm, tn, to, tr, tt, tv, tw, tz, ua, ug, uk, um, us, uy, uz, va, vc, ve, vg, vi, vn, vu, wf, ws, ye, yt, za, zm, zw]
+  location: [us]
+  url: https://paxful.com/
+  content: |
+      <p>Need to buy bitcoins fast? Get bitcoin in an hour or less! Based in New York City & featured on FOX Business.</p>
+      <p>Buy Bitcoins instantly with PayPal, cash, check, wire transfer, Western Union, or credit/debit card.</p>
+      <p>On Paxful we connect you to other people to buy coins, not corporations, so it is FAST!</p>
+  coins: [BTC]
+
 cointrader:
   label: Cointrader.net
   icon: https://www.cointrader.net/favicon.ico.png
   countries: [ca, us, ru, nl, fi, pl, cz, it, si, li, es, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
-  location: [us]
+  location: [ca]
   url: http://bit.ly/1B4WpDJ
   content:|
       <p>Cointrader.net is a meticulously engineered Bitcoin Exchange brought to you by the team that installed the world’s first Bitcoin ATM.</p>
       <p>With offices in Vancouver and London they offer USD and CAD order books with cheap and easy deposit/withdrawal options that save you time and money.</p>
       <p>They also have some of the lowest trading fees in the world and use a volume-based maker-taker fee model that gets as low as 0.05% per trade.</p>
   coins: [btc]
+ 
   
-  
-  paxful:
-  icon: http://paxful.com/favicon.png
-  label: Paxful
-  countries: [ad, ae, af, ag, ai, al, am, an, ao, aq, ar, as, at, au, aw, ax, az, ba, bb, bd, be, bf, bg, bh, bi, bj, bl, bm, bn, bo, br, bs, bt, bv, bw, by, bz, ca, cc, cd, cf, cg, ch, ci, ck, cl, cm, cn, co, cr, cu, cv, cx, cy, cz, de, do, dj, dk, dm, dz, ec, ee, eg, eh, er, es, et, fi, fj, fk, fm, fo, fr, ga, gd, ge, gf, gg, gh, gi, gl, gm, gn, gp, gq, gr, gs, gt, gu, gw, gy, hk, hm, hn, hr, ht, hu, id, ie, in, il, im, io, iq, ir, is, it, je, jm, jo, jp, ke, kg, kh, ki, km, kn, kp, kr, kw, ky, kz, la, lb, lc, li, lk, lr, ls, lt, lu, lv, ly, ma, mc, md, me, mf, mg, mh, mk, ml, mm, mn, mo, mp, mq, mr, ms, mt, mu, mv, mw, mx, my, mz, na, nc, ne, nf, ng, ni, nl, no, np, nr, nu, nz, om, pa, pe, pf, pg, ph, pk, pl, pm, pn, pr, ps, pt, pw, py, qa, re, ro, rs, ru, rw, sa, sb, sc, sd, se, sg, sh, si, sj, sk, sl, sm, sn, so, sr, st, sv, sy, sz, tc, td, tf, tg, th, tj, tk, tl, tm, tn, to, tr, tt, tv, tw, tz, ua, ug, uk, um, us, uy, uz, va, vc, ve, vg, vi, vn, vu, wf, ws, ye, yt, za, zm, zw]
-  location: [us]
-  url: http://paxful.com/
-  content: |
-      <p>The fastest New York Bitcoin exchange. Buy from anywhere in the world. No waiting, no hassles.</p>
-      <p>Buy Bitcoins instantly with cash, check, wire transfer, Western Union, or credit/debit card.</p>
-      <p>Find us on Twitter here: <a href="https://twitter.com/gopaxful">@gopaxful</></p>
-  coins: [BTC]
-  
-
-coincafe:
-  icon: https://coincafe.com/img/favicon.png
-  label: Coin Cafe
-  countries: [ad, ae, af, ag, ai, al, am, an, ao, aq, ar, as, at, au, aw, ax, az, ba, bb, bd, be, bf, bg, bh, bi, bj, bl, bm, bn, bo, br, bs, bt, bv, bw, by, bz, ca, cc, cd, cf, cg, ch, ci, ck, cl, cm, cn, co, cr, cu, cv, cx, cy, cz, de, do, dj, dk, dm, dz, ec, ee, eg, eh, er, es, et, fi, fj, fk, fm, fo, fr, ga, gd, ge, gf, gg, gh, gi, gl, gm, gn, gp, gq, gr, gs, gt, gu, gw, gy, hk, hm, hn, hr, ht, hu, id, ie, in, il, im, io, iq, ir, is, it, je, jm, jo, jp, ke, kg, kh, ki, km, kn, kp, kr, kw, ky, kz, la, lb, lc, li, lk, lr, ls, lt, lu, lv, ly, ma, mc, md, me, mf, mg, mh, mk, ml, mm, mn, mo, mp, mq, mr, ms, mt, mu, mv, mw, mx, my, mz, na, nc, ne, nf, ng, ni, nl, no, np, nr, nu, nz, om, pa, pe, pf, pg, ph, pk, pl, pm, pn, pr, ps, pt, pw, py, qa, re, ro, rs, ru, rw, sa, sb, sc, sd, se, sg, sh, si, sj, sk, sl, sm, sn, so, sr, st, sv, sy, sz, tc, td, tf, tg, th, tj, tk, tl, tm, tn, to, tr, tt, tv, tw, tz, ua, ug, uk, um, us, uy, uz, va, vc, ve, vg, vi, vn, vu, wf, ws, ye, yt, za, zm, zw]
-  location: [us]
-  url: https://www.coincafe.com/
-  content: |
-      <p>The fastest New York based exchange. Buy from anywhere in the world. No waiting, no hassles.</p>
-      <p>Buy Bitcoins with cash, check, wire transfer, Western Union, or credit/debit card. Or stop by our NYC location to use our ATM!</p>
-      <p>Find us on Twitter here: <a href="https://twitter.com/getcoincafe">@GetCoinCafe</></p>
-  coins: [BTC]
 cubits:
   label: Cubits
   icon: https://cubits.com/favicon.ico
@@ -339,6 +439,16 @@ bitnz:
     <p>The simple New Zealand Bitcoin exchange. </p>
   coins: [btc]
 
+  nzbcx:
+  countries: [nz]
+  location: [nz]
+  icon: https://nzbcx.com/images/icon.png
+  label: NZBCX
+  url: https://nzbcx.com/
+  content: |
+    <p>Full feature exchange where they literally know all their customers</p>
+  coins: [btc]
+
 bitx_id:
   label: BitX Indonesia
   countries: [id]
@@ -393,7 +503,7 @@ coined:
   countries: [nz]
   location: [nz]
   icon: https://coined.co.nz/favicon.ico
-  label: bitNZ
+  label: Coined
   url: https://coined.co.nz/
   content: |
     <p>Convert NZD into BTC. Deposit funds online or over the counter (Kiwibank).</p>
@@ -409,26 +519,6 @@ PosteBit.it:
     <p>Comprare bitcoin con ricarica postepay in euro contanti dalle poste, sisal, ITB o dal web. Acquistare con postebit è facile, veloce e sicuro!</p>
   coins: [btc]
   
-CoinBit.it:
-  countries: [it]
-  location: [it]
-  icon: http://www.coinbit.it/favicon.ico
-  label: CoinBit
-  url: http://www.coinbit.it/
-  content: |
-    <p>Bitcoin in 5 minuti grazie ad un sistema completamente automatizzato. Contanti, Bonifico e Carte di credito/debito</p>
-  coins: [btc, ltc]
-
-posteb:
-  countries: [it]
-  location: [it]
-  icon: /favicon.png
-  label: PosteB.it
-  url: http://www.posteb.it/
-  content: |
-    <p>Acquista Bitcoin con Postepay! Il sistema più veloce, economico, sicuro e anonimo per acquistare Bitcoin con Euro in Italia. Tutto automatico.</p>
-  coins: [btc]
-
 coinbase:
   label: Coinbase.com
   countries: [us]
@@ -446,16 +536,6 @@ bitcoin-central:
   label: BitcoinCentral.net
   url: https://bitcoin-central.net/
   content: An exchange based in France which primarily trades between Bitcoins and Euros.
-  coins: [btc]
-
-bitcoinschile:
-  label: BitcoinsChile.cl
-  countries: [cl, us, uk, au, ca, fr, de, in, it, mx, ph, ru, es, at, be, dk, ee, fi, gr, ie, lu, nl, no, pl, pt, se, ch]
-  location: [cl]
-  icon: http://portal.bitcoinschile.cl/wp-content/uploads/2012/10/favicon2.ico
-  url: http://portal.bitcoinschile.cl/
-  content: |
-      <p>Buy bitcoins by bank transfer (Chile only), or by Western Digital or Moneygram (US, some of Europe, India, others.).</p>
   coins: [btc]
 
 mengmengbi:
@@ -537,16 +617,6 @@ coinjarfiller:
   url: http://www.coinjar.io/filler
   content: |
       <p>CoinJar Filler™ aims to be the best and cheapest way to buy and sell Bitcoin. We charge only 2% for buying and 1.1% for selling. Get Bitcoin in your wallet or cash in your bank account quickly.</p>
-  coins: [btc]
-
-bitxoin:
-  label: bitXoin
-  icon: /favicon.png
-  location: [au]
-  countries: [au]
-  url: https://www.bitXoin.com
-  content: |
-      <p>Using bitXoin makes buying bitcoins using cash as easy as 1 - 2 - 3. Forget long wait-times and non-responsive transacting by using our easy to use brokerage platform, and making cash deposits over the counter.</p>
   coins: [btc]
 
 bittylicious:
@@ -646,6 +716,47 @@ xcfd:
          <li>Various deposit methods (incl. Credit Cards)</li>
        </ul>
     </p>
+  coins: [btc]
+
+urdubit:
+  label: UrduBit
+  url: https://urdubit.com/
+  location: [pk]
+  countries: [pk]
+  icon: https://urdubit.com/exchange/assets/exchange_logos/urdubit_landing_page_logo.png
+  content: |
+      <p>The first bitcoin exchange in Pakistan</p>
+  coins: [btc]
+
+surbitcoin:
+  label: SurBitcoin
+  url: https://surbitcoin.com/
+  location: [ve]
+  countries: [ve]
+  icon: https://surbitcoin.com/assets/exchange_logos/surbitcoin_landing_page_logo.png
+  content: |
+      <p>The first bitcoin exchange in Venezuela</p>
+  coins: [btc]
+
+
+chilebit:
+  label: ChileBit.NET
+  url: https://chilebit.net/
+  location: [cl]
+  countries: [cl]
+  icon: https://chilebit.net/exchange/assets/exchange_logos/chilebit_landing_page_logo.png
+  content: |
+      <p>The first bitcoin exchange in Chile</p>
+  coins: [btc]
+
+foxbit:
+  label: FoxBit
+  url: https://foxbit.exchange/
+  location: [br]
+  countries: [br]
+  icon: https://foxbit.exchange/assets/exchange_logos/foxbit_landing_page_logo.png
+  content: |
+      <p>The fastest way to buy or sell bitcoins in Brazil.</p>
   coins: [btc]
 
 mercadobitcoin:
@@ -818,15 +929,6 @@ bitsofgold:
   content: |<p>Buy and Sell bitcoin in Israel, for Israeli Shekel.</p>
   coins: [btc]
 
-bitcoinaustralia:
-  label: Bitcoin Australia
-  countries: [au]
-  location: [au]
-  icon: /favicon.png
-  url: https://www.getbitcoin.com.au/
-  content: Providing an exchange service to convert Australian dollars to bitcoins. Low exchange rates and fair commission.
-  coins: [btc]
-
 coinmkt:
   label: CoinMkt
   countries: [us]
@@ -934,7 +1036,7 @@ virwox:
   icon: https://www.virwox.com/favicon.ico
   label: VirWoX
   url: https://www.virwox.com
-  content: | <p>VirWoX is currently the only exchange where you can buy BTC with PayPal and Credit Cards (among other payment methods).</p> <p><a href="http://buybitcoinspaypal.com/buy-bitcoins-with-paypal/">How to buy Bitcoins with VirWox.</a></p>
+  content: | <p>VirWoX is currently the only exchange where you can buy BTC with PayPal and Credit Cards (among other payment methods).</p> <p><a href="http://99bitcoins.com/buying-bitcoins-with-paypal-a-practical-guide/">How to buy Bitcoins with VirWox.</a></p>
   coins: [btc]
 
 inrbtc:
@@ -971,15 +1073,6 @@ dagensia:
   icon: https://dagensia.eu/wp-content/themes/ecardone/images/favicon.png
   url: https://dagensia.eu/
   content: Dagensia allows you to Buy and Sell Bitcoins and to store Bitcoins securely. You can get your first Bitcoin today with Sofort Uberweisung or Bank wire, or you can start accepting Bitcoins directly into EUR or USD balance and ATM card.
-  coins: [btc]
-
-bitquick:
-  label: BitQuick
-  countries: [ca, us, au, be, bg, cz, dk, de, ee, ie, el, es, fr, it, cy, lv, lt, lu, hu, mt, nl, at, pl, pt, ro, si, sk, fi, se, uk]
-  location: [us]
-  icon: https://www.bitquick.co/favicon.ico
-  url: https://bitquick.co/
-  content: BitQuick.co helps connect Bitcoin buyers and sellers, directly to their own bank accounts. Buy Bitcoins instantly with cash deposit or SEPA transfer from sellers with bitcoin already in escrow for a low 2% fee (0% to sell).
   coins: [btc]
 
 justcoin:
@@ -1400,18 +1493,6 @@ unisend:
     <p>Unisend es un exchange local que opera en Argentina. Ofrece la posibilidad de cambiar ARS por BTC y BTC por ARS</p>
   coins: [BTC]
 
-bitboat:
-  label: BitBoat
-  countries: [it, fr]
-  location: [it, fr]
-  icon: https://www.bitboat.net/res/favicon.png
-  url: https://www.bitboat.net/
-  content: |
-    <p>Buy bitcoin with cash deposit, fully automated.</p>
-    <p>Compra bitcoin pagando in contanti: semplice, veloce e sicuro.</p>
-    <p>Acheter vos bitcoin dans tout les bureaux de poste Français en moins d'une heure.</p>
-  coins: [BTC]
-
 coinmotion:
   label: Coinmotion
   countries: [fi]
@@ -1545,11 +1626,11 @@ Coinduit:
 
 CoinMama:
   countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
-  location: [at]
+  location: [us]
   icon: https://www.coinmama.com/favicon.ico
   label: CoinMama
   url: https://www.coinmama.com
-  content: |<p>Coinmama provides the easiest way to buy virtual currency! Buy Bitcoins and Litecoins with your credit card or Western Union instantlyhere!</p><p><a href="http://buybitcoinspaypal.com/buy-bitcoins-with-paypal-or-debit-card-using-coinmama/">How to buy Bitcoins with CoinMama</a></p>
+  content: |<p>Coinmama provides the easiest way to buy virtual currency! Buy Bitcoins and Litecoins with your credit card or Western Union instantlyhere!</p><p><a href="http://99bitcoins.com/how-to-buy-bitcoin-with-a-credit-card/">How to buy Bitcoins with CoinMama</a></p>
   coins: [btc,ltc]
 
 morrex:
@@ -1713,15 +1794,6 @@ penny-alts:
   content: English
   coins: [btc, ltc, ppc, nxt, qrk, zet, max, doge, ifc]
    
-  
-postebit:
-  label: Postebit
-  countries: [it]
-  location: [it]
-  url: http://www.postebit.it/
-  content: Con Postebit puoi Comprare Bitcoin con Postepay, con ricarica dal web o in contanti alle poste o nei punti Sisal, è facile veloce e sicuro!  
-  coins: [btc]
-  
 chexbits:
   label: Chexbits
   countries: [us]
@@ -1730,14 +1802,6 @@ chexbits:
   content: Cash checks for Bitcoin, no need to link bank account to exchange (US Only)  
   coins: [btc]
   
-bitcoinpinoy:
-  label: Bitcoin Central
-  countries: [nz]
-  location: [nz]
-  url: http://www.Bitcoin-ATM.co.nz
-  content: NZ's Bitcoin ATM - Buy and Sell Bitcoins for cash
-  coins: [btc]
-
 takascoin:
   label: TakasCoin
   countries: [ro]
@@ -1793,14 +1857,6 @@ coinmotion:
   location: [fi]
   url: http://coinmotion.com/
   content: Secure and easy way to buy, store and use bitcoin.  Familiar payment options and instant trades. Get your bitcoins in minutes!
-  coins: [btc]
-  
-shopwithbitcoin:
-  label: Shop With Bitcoin
-  countries: [au]
-  location: [au]
-  url: http://shopwithbitcoin.com.au/
-  content: English
   coins: [btc]
 
 bitcoinvietnam:
@@ -1858,14 +1914,14 @@ bitcurex:
   url: https://pln.bitcurex.com/
   content: One of the largest exchange BTC - PLN accepting polish wire transfers.
   Coins: [btc]
-  
-cointree:
-  label: CoinTree
-  countries: [au]
-  location: [au]
-  url: http://www.cointree.com.au/
-  content: No fees. Buy bitcoin at CoinTree today using cash and online banking. Quick. Simple. Secure.  
-  coins: [btc]
+
+4Coins:
+  label: 4Coins.pl
+  countries: [pl]
+  location: [pl]
+  url: https://4coins.pl/
+  content: Polish Bitcoin currency exchange with integrated online payments and possibility to store funds on a secure wallet.
+  Coins: [btc]  
   
 takascoin:
   label: TakasCoin
@@ -1881,6 +1937,14 @@ bitsimple:
   location: [us]
   url: https://bitsimple.com/
   content: BitSimple allows you to buy and sell bitcons using your own wallet. Need bitcoins in a hurry? We deliver purchases coins the same day, usually within an hour.  
+  coins: [btc]
+
+copenhagenbitcoin:
+  label: CopenhagenBitcoin
+  countries: [dk]
+  location: [dk]
+  url: https://www.copenhagenbitcoin.dk/
+  content: Copenhagen Bitcoin offers an easy, instant purchasing service and is the leading broker of bitcoin in Denmark. 
   coins: [btc]
 
 btcontrust:
@@ -1918,15 +1982,14 @@ Harborly:
   coins: [btc, ltc]
 
 Exmo:
-  label: Exmo
-  countries: [worldwide]
+  label: EXMO
+  countries: [af, ax, al, dz, as, ad, ao, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, kh, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, ec, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, gy, ht, hm, va, hn, hk, hu, is, in, id, ir, iq, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kp, kr, kw, kg, la, lv, lb, ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, mm, na, nr, np, nl, an, nc, nz, ni, ne, ng, nu, nf, mp, no, om, pk, pw, ps, pa, pg, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sd, sr, sj, sz, se, ch, sy, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ug, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, ye, zm, zw]
   location: [uk]  
+  icon: https://exmo.com/static/img/favicon2/196.png
   url: https://exmo.com/
-  content: |
-     <p>It has never been so easy to use Bitcoin.</p>
-     <p>Buy & Sell Bitcoin.</p>
+  content: Exmo.com – A Universal Cryptocurrency Platform. Complete service for the storing, trading, management and usage of BTC, DOGE, LTC.
   coins: [btc, ltc, doge]
-
+  
 Igot:
   uniquename: Igot
   label: Igot - Buy, Sell, Send, and Receive Bitcoin easily. Store Bitcoin in Your Hosted Wallet!
@@ -1946,3 +2009,36 @@ Igot:
     </p>
   coins: [btc]
   location: [au, nl, an, in, sg, hk, ae]
+
+SurBTC:
+  label: SurBTC.com
+  countries: [cl]
+  location: [cl]
+  icon: https://www.surbtc.com/favicon.ico
+  url: https://www.surbtc.com/
+  content: |
+     <p>SurBTC is the first safe and reliable way for Chileans to access and invest in bitcoin.</p>
+     <p>Low trading fees: Pay only 0.5% on every market trade</p>
+     <p>Deposit using Chilean bank account or SWIFT for worldwide transfers</p>
+  coins: [btc]
+
++CRXzone:
++ label: CRXzone
++ countries: [sg, in, ml, ar, at, be, br, cl, hr, cy, cz, dk, ee, fi, fr, de, gr, hu, ie, is, it, lv, li, lt, lu, mt, mx, mc, nl, no, pe, pl, pt, ro, sk, es, se, ch, gb, us, uy]
++ location: [SG]
++ icon: https://crxzone.com/favicon.ico
++ url: https://crxzone.com/
++ content: Buy Bitcoins from CRXzone Singapore registered and Operated business with cash, bank transfer or wire transfer, Digtal currencies like egopay, okpay, perfect money etc. Fast Delivery, Low Price, 7 days a week support with office in central business district.
++ coins: [btc]
+
+FinCCX:
+  label: FinCCX
+  countries: [ax, as, ad, ai, aq, ag, ar, am, aw, au, at, az, bs, bh, bd, bb, by, be, bz, bj, bm, bt, bo, ba, bw, bv, br, io, bn, bg, bf, bi, cm, ca, cv, ky, cf, td, cl, cn, cx, cc, co, km, cg, cd, ck, cr, ci, hr, cu, cy, cz, dk, dj, dm, do, eg, sv, gq, er, ee, et, fk, fo, fj, fi, fr, gf, pf, tf, ga, gm, ge, de, gh, gi, gr, gl, gd, gp, gu, gt, gg, gn, gw, ht, hm, va, hn, hk, hu, is, in, ie, im, il, it, jm, jp, je, jo, kz, ke, ki, kr, kg, lv, lb,  ls, lr, ly, li, lt, lu, mo, mk, mg, mw, my, mv, ml, mt, mh, mq, mr, mu, yt, mx, fm, md, mc, mn, me, ms, ma, mz, nr, np, nl, an, nc, nz, ne, ng, nu, nf, mp, no, om, pw, ps, py, pe, ph, pn, pl, pt, pr, qa, re, ro, ru, rw, sh, kn, lc, pm, vc, ws, sm, st, sa, sn, rs, sc, sl, sg, sk, si, sb, so, za, gs, es, lk, sr, sj, sz, se, ch, tw, tj, tz, th, tl, tg, tk, to, tt, tn, tr, tm, tc, tv, ua, ae, uk, us, um, uy, uz, vu, ve, vn, vg, vi, wf, eh, zm]
+  location: [fi]
+  icon: https://www.finccx.com/hp/favicon.png
+  url: https://www.finccx.com
+  content: |
+     <p>Bitcoin exchange based in Finland. Here you can safely buy and sell bitcoins against US Dollars and Euros at a competitive price. Taker-maker fee structure, allowing a price-maker to earn a commission fee.</p>
+	 <p>Deposits via bank transfer. Secure platform. Excellent customer support in Russian, Finnish, English languages.</p>
+     <p>Join FinCCX and you won’t regret!</p>
+  coins: [btc]  

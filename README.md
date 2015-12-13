@@ -1,60 +1,15 @@
-Repo for howtobuybitcoins.info
+# Official [HowToBuyBitcoins.info](http://howtobuybitcoins.info/)
 
-## File Format
+![HowToBuyBitcoinsInfo](https://s3.amazonaws.com/s3.luxstack.com/github/howtobuybitcoins/howtobuybitcoinsinfo.png)
 
-For easily merging pull request specially *services.yaml*, Unix line endings should be used (LF).
+---
 
-## services.yaml
+Reach over **100,000** bitcoin users and Forex traders every month! Get discovered fast in our apps, platform services and on the world's most visited bitcoin exchange and services directory, [HowToBuyBitcoins.info](http://howtobuybitcoins.info/).
 
-Simple edits can be done following yaml rules.  
+We've now made it super easy to add your exchange. 
+Visit [Get Discovered](https://luxstack.com/#!/getdiscovered) now to submit your exchange details.
+Don't forget to add your image!
 
-**uniquename** - this would be the identifier entry, no spaces is allowed
+[**Get Discovered Free!**](https://luxstack.com/#!/getdiscovered)
 
-**label** - title of the site
-	
-	label: Awesome Exchanger
-
-**countries** - please see website for the code of country, example entry.
-  
-	countries: [us, uk] 
-
-**icon** - url of the favicon.ico of site, don't include if you dont have one.
-	
-	icon: http://example.com/favicon.ico
-
-**url** - url of the site, or any page of your site.
-
-	url: http://example.com 
-
-**content** - description of the site.
-
-  Single line
-
-	content: Single line
-  
-  Multi line - Scalar content can be written in block notation, using a literal style (indicated by “|”) where all line breaks are significant.  These should be also indented two spaces.
-
-	content: |
-	  Multiline indented two spaces
-	  Second line
-	  Third line
- 
-**coins** - accepted crypto currency
-
-	coins: [btc]
-
-
-
-Example Entry:
-
-	sampleexchanger:
-	  label: Sample Exchanger
-	  countries: [us, uk] 
-	  icon: http://sample-exchanger.com/favicon.ico
-	  url: http://sample-exchanger.com
-      content: |
-		The most awesome exchanger in the planet
-        Everyone should agree
-	  coins:
-	  
-	  
+![GetDiscovered](https://s3.amazonaws.com/s3.luxstack.com/github/howtobuybitcoins/getdiscovered.png)
